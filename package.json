@@ -1,6 +1,6 @@
 {
   "name": "barrelbird",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "BarrelBird Online",
   "main": "server.js",
   "scripts": {
